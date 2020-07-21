@@ -1,0 +1,27 @@
+body{
+    font: normal 20pt Arial;
+    text-align: center;
+}
+
+footer{
+    font-size: 15pt;
+}
+div#horario{
+    font-style: italic;
+}
+
+div.content{
+    background-color: darkolivegreen;
+    text-align: center;
+    margin: auto;
+    border-radius: 10%;
+    width: 500px;
+    height: 500px;
+}
+
+img#img{
+    padding: 15pt;
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+}
